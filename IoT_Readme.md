@@ -1,7 +1,4 @@
-# ENVIRONMENT SETUP 
-
-## Arduino IDE Environment Setup
-### Libraries Installation:
+### Libraries Installation in Arduino IDE:
 1. At Arduino IDE, go to menu Sketch -> Include Library -> Manage Libraries...
 2. In Library Manager Window, search "firebase" in the search form then select "Firebase ESP8266 Client".
 3. Click "Install" button.
